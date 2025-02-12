@@ -1,0 +1,12 @@
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.deps.json
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.runtimeconfig.json
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.dll
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.pdb
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.dll
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.pdb
+/Users/magdalenaqnkova/Downloads/08-Exercise-CI-CD-GitHub-Actions-Resources 2/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.genruntimeconfig.cache
